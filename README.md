@@ -1,0 +1,2 @@
+# Mercy
+My first repository
